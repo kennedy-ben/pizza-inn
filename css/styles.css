@@ -4,7 +4,7 @@
   
   .contact {
     cursor: pointer;
-    color: #0088cc;
+    color: rgb(204, 0, 95);
   }
   
   .contact:hover {
