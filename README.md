@@ -13,10 +13,10 @@ This form helps you to order pizza and other toppings which you would like to ad
 https://kennedy-ben.github.io/pizza-inn/
 
 ## Technologies Used
-   HTML
-   CSS
-   BOOTSTRAP
-   JAVASCRIPT
+   HTML,
+   CSS,
+   BOOTSTRAP,
+   JAVASCRIPT,
    JQUERY
 
 ## Support and contact details
