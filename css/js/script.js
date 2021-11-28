@@ -36,15 +36,15 @@ $(document).ready(() => {
         price = 0;
         break;
       case 'large':
-        price = 1200;
+        price = 1900;
         console.log(price);
         break;
       case 'medium':
-        price = 850;
+        price = 1000;
         console.log(`The price is ${price}`);
         break;
       case 'small':
-        price = 600;
+        price = 850;
         console.log(price);
       default:
         console.log('error');
@@ -57,7 +57,7 @@ $(document).ready(() => {
         crust_price = 200;
         break;
       case 'Stuffed':
-        crust_price = 250;
+        crust_price = 150;
         break;
       case 'Gluten-free':
         crust_price = 180;
@@ -106,15 +106,15 @@ $(document).ready(() => {
           price = 0;
           break;
         case 'large':
-          price = 1200;
+          price = 1900;
           console.log(price);
           break;
         case 'medium':
-          price = 850;
+          price = 1000;
           console.log(`The price is ${price}`);
           break;
         case 'small':
-          price = 600;
+          price = 850;
           console.log(price);
         default:
           console.log('error');
@@ -127,7 +127,7 @@ $(document).ready(() => {
           crust_price = 200;
           break;
         case 'Stuffed':
-          crust_price = 150;
+          crust_price = 200;
           break;
         case 'Gluten-free':
           crust_price = 180;
