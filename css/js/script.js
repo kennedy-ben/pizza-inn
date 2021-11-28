@@ -1,3 +1,4 @@
+/* eslint-disable no-alert */
 /* eslint-disable no-shadow */
 /* eslint-disable no-unused-vars */
 /* eslint-disable eqeqeq */
